@@ -5,4 +5,4 @@ Please ⭐ the repository!
 
 ---
 
-![Funny begging emoji](7B100211-FE93-468E-BB6A-476409C3C82F.png)
+![Begging emoji]([7B100211-FE93-468E-BB6A-476409C3C82F.png](https://media.tenor.com/SWyN3IGHY44AAAAi/poor-homeless.gif))
