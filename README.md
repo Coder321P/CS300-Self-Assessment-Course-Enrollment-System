@@ -1,2 +1,8 @@
-# CS300-Self-Assessment-Course-Enrollment-System
-Self Assesment for CS200 at UW Madison
+# UW Madison CS 20 - Self Assessment  
+## Course Enrollment System  
+
+Please ⭐ the repository!
+
+---
+
+![Funny begging emoji](7B100211-FE93-468E-BB6A-476409C3C82F.png)
